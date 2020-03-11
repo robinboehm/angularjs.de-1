@@ -15,7 +15,7 @@ Als Beispiel werden wir eine Seite mit einer Userliste bauen und auf dem Weg die
 
 ### Typescript
 
-Angular ist in Typescript geschrieben. Typescript ist ein Superset für JavaScript. Das bedeutet, es ist keine Neu programiersprache, sonder 'nur' tooling, welches dir zur Entwickliungszeit zur verfügung steht.
+Angular ist in Typescript geschrieben. Typescript ist ein Superset für JavaScript. Das bedeutet, es ist keine neue Programiersprache, sonder ist eher als Tooling zu sehen, welches dir zur Entwickliungszeit zur Verfügung steht. Durch TypeScript haben wir die Möglichkeit JavaScript um ein Typensystem zu erweitern, dies reduziert gerade in größeren Projekten und Teams viele potentielle Fehlerquellen.
 
 ### CLI
 
